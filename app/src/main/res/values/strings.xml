@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">20191218HW6</string>
+    <string name="enterCityName">Введите название города для просмотра погоды</string>
+    <string name="ok">OK</string>
+    <string name="readHistory">Просмотреть историю</string>
+    <string name="clearHistory">Очистить историю</string>
 </resources>
